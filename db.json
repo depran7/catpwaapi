@@ -34,16 +34,5 @@
 {"id":36,"name":"Australian magpie","category":"Teal"},
 {"id":37,"name":"Rainbow lory","category":"Aquamarine"},
 {"id":38,"name":"Indian star tortoise","category":"Blue"},
-{"id":39,"name":"Seal, common","category":"Yellow"},
-{"id":40,"name":"American beaver","category":"Orange"},
-{"id":41,"name":"Waxbill, blue","category":"Blue"},
-{"id":42,"name":"Goanna lizard","category":"Pink"},
-{"id":43,"name":"Lion, galapagos sea","category":"Aquamarine"},
-{"id":44,"name":"Comb duck","category":"Blue"},
-{"id":45,"name":"Desert spiny lizard","category":"Blue"},
-{"id":46,"name":"Heron, gray","category":"Blue"},
-{"id":47,"name":"American buffalo","category":"Green"},
-{"id":48,"name":"Red-winged blackbird","category":"Fuscia"},
-{"id":49,"name":"Red-winged blackbird","category":"Violet"},
-{"id":50,"name":"Chickadee, black-capped","category":"Yellow"}]
+{"id":39,"name":"Seal, common","category":"Yellow"}]
 }
