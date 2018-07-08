@@ -23,16 +23,5 @@
 {"id":22,"name":"Sage grouse","category":"Red"},
 {"id":23,"name":"Nuthatch, red-breasted","category":"Aquamarine"},
 {"id":24,"name":"Coatimundi, ring-tailed","category":"Mauv"},
-{"id":25,"name":"African polecat","category":"Teal"},
-{"id":26,"name":"Orca","category":"Pink"},
-{"id":27,"name":"Southern elephant seal","category":"Purple"},
-{"id":28,"name":"Mongoose, small indian","category":"Pink"},
-{"id":29,"name":"Four-spotted skimmer","category":"Purple"},
-{"id":30,"name":"Butterfly, tropical buckeye","category":"Orange"},
-{"id":31,"name":"African black crake","category":"Puce"},
-{"id":32,"name":"Oryx, fringe-eared","category":"Violet"},
-{"id":36,"name":"Australian magpie","category":"Teal"},
-{"id":37,"name":"Rainbow lory","category":"Aquamarine"},
-{"id":38,"name":"Indian star tortoise","category":"Blue"},
-{"id":39,"name":"Seal, common","category":"Yellow"}]
+{"id":25,"name":"African polecat","category":"Teal"}]
 }
